@@ -177,10 +177,3 @@ npm run build
 - Follow security best practices for tool usage
 - Regular updates and patches are essential
 
-## Contributing
-
-We welcome contributions! Please read our contributing guidelines and submit pull requests for any enhancements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
