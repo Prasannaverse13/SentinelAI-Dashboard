@@ -2,7 +2,7 @@
 
 SentinelAI Dashboard is a cutting-edge cybersecurity monitoring and threat detection platform that leverages artificial intelligence to provide real-time security insights and automated threat response.
 
-![SentinelAI Dashboard](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1200&q=80)
+![Screenshot (1051)](https://github.com/user-attachments/assets/3aff02f8-f54e-4c82-b56a-78612251263b)
 
 ## Features
 
